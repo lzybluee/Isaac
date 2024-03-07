@@ -621,7 +621,6 @@ Grants two black hearts.
 81. Dead Cat : ↑ +9 Lives
 Isaac respawns with 1 heart container on death
 {{Warning}} Sets Isaac's heart containers to 1 when picked up
-Characters that can't have Red Hearts get set to 1 Soul/Black Heart
 嗝屁猫 : ↑ +9生命
 以1个心之容器重生
 ↓ 将心之容器变成1个
@@ -1099,8 +1098,6 @@ Converts one red heart container into three soul hearts.
 Grants a 1/3rd chance to replace a pickup with a normal or gold chest, but also a 1/3rd chance to replace it with nothing at all.
 
 135. IV Bag : {{Coin}} Hurts Isaac for half a heart and spawns 1-2 coins
-{{HardMode}} Spawns 1 coin on Hard Mode
-{{Player14}} Spawns 0-1 coin as Keeper
 献血袋 : 便携式献血机
 半心=1-2硬币
 {{HardMode}} 困难模式：1硬币
@@ -1116,7 +1113,7 @@ Only spawns 0-1 coins on The Keeper.
 吸引敌人
 Spawns a decoy which distracts enemies and explodes after a few seconds, dealing 110 damage.
 
-137. Remote Detonator : {{Bomb}} +5 bombs
+137. Remote Detonator : {{Bomb}} +5 Bombs
 Isaac's bombs no longer explode automatically
 Using the item detonates all of Isaac's bombs at once
 起爆器 : 按需引爆炸弹
@@ -1143,7 +1140,7 @@ You can now hold 2 trinkets at once.
 Can hold two identical trinkets.
 Spawns a random trinket on pick up.
 
-140. Bob's Curse : {{Bomb}} +5 bombs
+140. Bob's Curse : {{Bomb}} +5 Bombs
 {{Poison}} Isaac's bombs create a cloud of poison
 {{Poison}} Poison immunity
 鲍勃的诅咒 : 有毒炸弹
@@ -1333,7 +1330,6 @@ When used, spawns 5 beams of light in random locations, with a high chance to di
 Beams last 0.8 seconds and deal (tear damage + 20) damage on contact.
 
 161. Ankh : {{Player4}} Respawn as ??? (Blue Baby) on death
-{{Player25}} Tainted ??? simply revives
 安卡十字 : {{Player4}} 死亡后以??? (小蓝人) 重生
 Grants an extra life.
 On death, the player respawns as ??? in the previous room.
@@ -1505,7 +1501,7 @@ The beams of light deal 4 times Isaac's damage plus a flat 10.
 
 182. Sacred Heart : ↑ {{Heart}} +1 Health
 ↑ {{Damage}} x2.3 Damage multiplier
-{{Damage}} +1 Damage
+↑ {{Damage}} +1 Damage
 ↓ {{Tears}} -0.4 Tears
 ↓ {{Shotspeed}} -0.25 Shot speed
 {{Heart}} Full health
@@ -2057,7 +2053,6 @@ Cannot modify speed above 2, can break the tear cap of 5.0.
 
 241. Contract from Below : Doubles all room clear rewards
 33% chance for no room clear reward
-{{GreedMode}} Doesn't affect Greed Mode
 地狱契约 : 所有掉落物成倍出现
 ↓ 33%几率清理房间无掉落物
 不影响贪婪模式
@@ -2727,7 +2722,6 @@ This can increase Isaac's rate of fire past the normal cap.
 2x Tear delay multiplier.
 
 311. Judas' Shadow : {{Player12}} When dead, respawn as Dark Judas with a 2x damage multiplier
-{{Player24}} Tainted Judas simply revives
 犹大之影 : 死后以{{Player12}}黑暗犹大重生
 {{Damage}} 犹大之影拥有200%伤害修正
 {{Player24}} 堕化犹大复活为其自身
@@ -2933,7 +2927,6 @@ Causes your tears to deal damage in an area around them as well.
 +0.8 Tear height.
 
 332. Lazarus' Rags : {{Player11}} When dead, revive as Lazarus (Risen)
-{{Player29}} Tainted Lazarus simply revives
 拉撒路的绷带 : {{Player11}} 死后以拉撒路(复活的)重生
 Grants an extra life, causing the player to revive as Lazarus Risen.
 Lazarus Risen is similar to Lazarus, and completion marks gained as Lazarus Risen count for Lazarus.
@@ -6178,7 +6171,7 @@ Gives Isaac a heart container.
 捡起其一后另1个奖励消失
 Upon completing a room, if a room clear reward would spawn, another, different reward spawns next to it. If Isaac takes/opens one, the other disappears.
 
-671. Candy Heart : ↑ Picking up {{Heart}} Red Hearts grants random permanent stat ups
+671. Candy Heart : ↑ Healing with {{Heart}} Red Hearts grants random permanent stat ups
 {{Heart}} Spawns a Red Heart
 糖心 : 捡起红心时获得永久的属性提升
 {{Heart}} 生成1红心
@@ -6234,7 +6227,6 @@ Destroys all tinted and crawlspace rocks
 Upon being hit, reveals a random room on the floor and unlocks all doors in the room that require keys to open.
 
 676. Empty Heart : {{EmptyHeart}} +1 Empty heart container when at 1 Red Heart or less at the start of a new floor
-No effect for characters that can't have Red Hearts
 空虚之心 : 在开始新一层时，若只有1红心或更少，获得{{EmptyHeart}}1空的心之容器
 对无法获得红心的角色无效
 If Isaac has an empty heart container, another one is added at the start of every floor.
@@ -6758,7 +6750,6 @@ Both the throwing and retaking of the head can deal damages to enemies passing t
 ========== Trinkets ========== 
 
 1. Swallowed Penny : {{Coin}} Taking damage spawns 1 coin
-{{Player14}} 0-1 as Keeper
 被吞下的硬币 : {{Coin}} 受伤时生成1硬币
 {{Player14}} 店主：受伤时生成0-1硬币
 Drops 1 penny, nickel or dime upon taking damage.
@@ -6910,8 +6901,6 @@ The drop chances for every kind of heart is reduced.
 A full list of drops that can turn into black hearts, as well as further mechanics for this item, can be found on the wiki page.
 
 23. Missing Poster : {{Player10}} Respawn as The Lost on death
-{{Player31}} Tainted Lost simply revives
-{{Warning}} Dying in a {{SacrificeRoom}} Sacrifice Room while holding this trinket unlocks The Lost
 寻人启事 : {{Player10}} 死亡后会以游魂重生
 如果未解锁游魂，在持有该饰品的情况下于{{SacrificeRoom}}献祭房中死亡可以解锁游魂
 {{Player31}} 堕化游魂死亡仍会复活为其自身
@@ -7465,7 +7454,7 @@ Items with no charge bar, such as Potato Peeler, count as uncharged for this tri
 塔罗牌残片 : 持有时+1额外{{SecretRoom}}隐藏房
 Causes two Secret Rooms to spawn upon entering a new floor while holding this trinket.
 
-103. Equality! : Turns single consumables into double consumables when Isaac's {{Coin}} coin, {{Bomb}} bomb and {{Key}} key counts are equal
+103. Equality! : Turns single pickups into double pickups when Isaac's {{Coin}} coin, {{Bomb}} bomb and {{Key}} key counts are equal
 等号！ : !!! 当硬币，钥匙和炸弹数相等时：
 将掉落物变成成对掉落物
 Turns all pickups into their doubled versions while the player has an equal number of coins, bombs and keys.
@@ -7732,7 +7721,7 @@ Chance is equal to 1/6th the value of the coin, and cannot activate more than on
 友谊项链 : 使跟班围着角色
 Familiars that normally follow Isaac orbit around him instead.
 
-149. Panic Button : Taking damage uses the active item if it is charged
+149. Panic Button : Right before taking damage, uses the active item if it is charged
 紧急按钮 : 受伤时自动使用满充能的主动道具，但不免费
 Activates Isaac's active item just before damage would be taken.
 Single use items are consumed.
@@ -7884,7 +7873,7 @@ Can teleport to the secret rooms.
 你的灵魂 : {{DevilChance}} 免费进行一次恶魔交易
 While held, this trinket will be sacrificed instead of Hearts for the first Devil Deal (or other similar max health trade) taken.
 
-174. Number Magnet : {{DevilChance}} +10% Devil Room chance
+174. Number Magnet : {{DevilChance}} +10% Devil/Angel Room chance
 Prevents Krampus from appearing in Devil Rooms
 Devil Rooms are special variants with more deals, Black Hearts and enemies
 数字冰箱贴 : {{DevilChance}} +10%恶魔房几率
@@ -8089,7 +8078,6 @@ XIII-死亡 : 对房间内所有敌人造成40点伤害
 Deals 40 damage to all enemies in the room.
 
 15. XIV - Temperance : {{DonationMachine}} Spawns a Blood Donation Machine
-{{GreedMode}} Spawns a Devil Beggar in Greed Mode
 XIV-节制 : 生成1个{{BloodDonationMachine}}献血机
 {{GreedMode}} 在贪婪模式改为生成一个恶魔乞丐
 Spawns a Blood Donation Machine.
@@ -8863,8 +8851,6 @@ If there are no previously taken pills, will spawn another Vurp! pill.
 
 49. Experimental Pill : ↑ Increases 1 random stat
 ↓ Decreases 1 random stat
-No stat decrease with {{Collectible75}}PHD, {{Collectible46}}Lucky Foot or {{Collectible303}}Virgo
-No stat increase with {{Collectible654}}False PHD
 实验性胶囊 : ↑ 提升1项随机属性
 ↓ 降低另外1项随机属性
 有{{Collectible75}}药学博士证，{{Collectible46}}幸运脚或{{Collectible303}}处女座时不降属性
@@ -8875,14 +8861,14 @@ If taken with PHD, it will not reduce an attribute.
 ========== Sacrifice ========== 
 
 1 => {{Coin}} 50% chance for 1 coin
-{{Bomb}} 100% chance for 1 Bomb, when on B1 and killed the Boss under 1 minute
+{{Bomb}} 100% chance for 1 bomb, when on B1 and killed the boss under 1 minute
 {{Coin}} 50%几率是1硬币
 {{Bomb}} 当在第1层且在1分钟内杀死Boss且未持有炸弹时，100%几率是1炸弹
 50% chance for 1 coin
 100% chance for 1 Bomb, when on B1 and killed the Boss under 1 minute
 
 2 => {{Coin}} 50% chance for 1 coin
-{{Bomb}} 100% chance for 1 Bomb, when on B1 and killed the Boss under 1 minute
+{{Bomb}} 100% chance for 1 bomb, when on B1 and killed the boss under 1 minute
 {{Coin}} 50%几率是1硬币
 {{Bomb}} 当在第1层且在1分钟内杀死Boss且未持有炸弹时，100%几率是1炸弹
 50% chance for 1 coin
@@ -9573,7 +9559,7 @@ Prayer Card => Inner ring wisp
 Homing tears
 祈祷卡 => 跟踪眼泪
 
-Notched Axe => Chance to spawn dip wisps form poop and 1 of 5 mineral wisps from rocks:
+Notched Axe => Chance to spawn dip wisps from poop and 1 of 5 mineral wisps from rocks:
 {{Collectible132}} Coal, {{Collectible201}} Iron, {{Collectible202}} Gold, {{Collectible68}} Redstone, {{Collectible415}} Diamond
 残损铁镐 => 摧毁岩石时几率生成5选1魂火
 几率发射煤炭，迷惑，硬币，双倍伤害或激光眼泪
@@ -10398,8 +10384,6 @@ Isaac can't shoot but deals 40 contact damage per second
 
 49. Experimental Pill : ↑ Increases 1 random stat twice
 ↓ Decreases 1 random stat twice
-No stat decrease with {{Collectible75}} PHD, {{Collectible46}} Lucky Foot or {{Collectible303}} Virgo
-No stat increase with {{Collectible654}} False PHD
 实验性胶囊 : ↑ 提升1项随机属性两次
 ↓ 降低另外1项随机属性两次
 有{{Collectible75}}药学博士证，{{Collectible46}}幸运脚或{{Collectible303}}处女座时不降属性
@@ -10464,3 +10448,4 @@ Bomb : Normal throwable bomb
 
 Explosive Diarrhea : Isaac quickly spawns 5 lit bombs
 爆炸性腹泻 : 在角色位置生成5个激活的大便炸弹
+
