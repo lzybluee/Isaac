@@ -1,1 +1,1 @@
-python isaac.py > isaac.txt
+python -X utf8 isaac.py > isaac.txt
